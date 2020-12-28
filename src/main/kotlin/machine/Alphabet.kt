@@ -11,7 +11,7 @@ enum class Alphabet(val stringRepresentation: String) {
     H("H"),
     I("I"),
     J("J"),
-    K("H"),
+    K("K"),
     L("L"),
     M("M"),
     N("N"),
